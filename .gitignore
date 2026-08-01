@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+*.py
+main.elf
+main.o
+remap_com_port
